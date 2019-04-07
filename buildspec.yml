@@ -1,0 +1,12 @@
+version: 0.2
+
+phases:
+  pre_build:
+    commands:
+      - echo Entered the install phase...
+      - apt-get update
+  build:
+    commands:
+      - echo Entered the pre build phase...
+      - npm install npm@latest -g
+      - npm install

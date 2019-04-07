@@ -1,0 +1,2 @@
+const data = [{url:'assets/images/supplement1.jpg',title:'Whey Optium Nutrition',price:'1444',weight:'1lb'},{url:'assets/images/supplement2.jpg',title:'Whey Optium Elite',price:'3830',weight:'3lb'},{url:'assets/images/supplement3.jpg',title:'On Creatine',price:'800',weight:'200gm'},{url:'assets/images/supplement4.jpg',title:'Creatine Monohydrate',price:'1200',weight:'500gm'},{url:'assets/images/supplement5.jpg',title:'Multivitamin',price:'500',weight:'750gm'}]
+module.exports = data;
